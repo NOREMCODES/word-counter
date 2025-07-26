@@ -1,9 +1,8 @@
-def count_words(text):
+def word_count(text):
     words = text.split()
     return len(words)
 
-# Input
-user_input = input("Enter your sentence: ")
+# Example usage
+input_text = "NoremCodes is building automation tools for businesses."
+print("Word count:", word_count(input_text))
 
-# Output
-print("Word count:", count_words(user_input))
