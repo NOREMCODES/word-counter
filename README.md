@@ -1,8 +1,11 @@
 # Word Counter 🧮
 
-This is a mini Python script that counts the number of words in a given string.
+A simple Python script that counts the number of words in a sentence.
 
-## Usage
-Change the `sample_text` variable to test different text inputs.
+## How it works
 
-## Example
+The script takes user input, splits it by spaces, and counts the words.
+
+### Example:
+
+**Input**:
